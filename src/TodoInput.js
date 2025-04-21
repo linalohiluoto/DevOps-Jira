@@ -11,7 +11,7 @@ export const TodoInput = ({ todo, setTodo, addTodo }) => {
           }}
         />
         <button className="add-button" onClick={addTodo}>
-          Add
+          Lisää
         </button>
       </div>
     );
